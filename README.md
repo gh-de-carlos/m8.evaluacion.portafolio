@@ -478,15 +478,15 @@ curl -X GET http://localhost:3000/usuarios/2 \
 
 ### Implementación completada
 
-[DONE] Servidor Express con arquitectura REST\
-[DONE] Sistema de autenticación JWT con refresh tokens\
-[DONE] CRUD completo de usuarios\
-[DONE] Subida de archivos con validación rigurosa\
-[DONE] Cifrado de contraseñas con bcryptjs
-[DONE] Manejo de errores centralizado
-[DONE] Protección de rutas por autenticación
-[DONE] Verificación de propiedad de recursos
-[DONE] Base de datos PostgreSQL con esquema completo
-[DONE] Documentación detallada con ejemplos en cURL
+[DONE] Servidor Express con arquitectura REST  
+[DONE] Sistema de autenticación JWT con refresh tokens  
+[DONE] CRUD completo de usuarios  
+[DONE] Subida de archivos con validación rigurosa  
+[DONE] Cifrado de contraseñas con bcryptjs  
+[DONE] Manejo de errores centralizado  
+[DONE] Protección de rutas por autenticación  
+[DONE] Verificación de propiedad de recursos  
+[DONE] Base de datos PostgreSQL con esquema completo  
+[DONE] Documentación detallada con ejemplos en cURL  
 
 Si quieres, puedes probar con los archivos de prueba en la carpeta [`test/`](./test/) o crear tus propios casos utilizando los patrones `cURL` ofrecidos. Uno de estos archivos tiene un mime type falso para probar la seguridad del sistema de subida de archivos. (no confiar en el mime type enviado por el cliente ni la extensión del archivo)
