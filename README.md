@@ -478,10 +478,10 @@ curl -X GET http://localhost:3000/usuarios/2 \
 
 ### Implementación completada
 
-[DONE] Servidor Express con arquitectura REST
-[DONE] Sistema de autenticación JWT con refresh tokens
-[DONE] CRUD completo de usuarios
-[DONE] Subida de archivos con validación rigurosa
+[DONE] Servidor Express con arquitectura REST\
+[DONE] Sistema de autenticación JWT con refresh tokens\
+[DONE] CRUD completo de usuarios\
+[DONE] Subida de archivos con validación rigurosa\
 [DONE] Cifrado de contraseñas con bcryptjs
 [DONE] Manejo de errores centralizado
 [DONE] Protección de rutas por autenticación
